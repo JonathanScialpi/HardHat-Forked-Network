@@ -5,7 +5,7 @@
 2. `npm init -y`
 3. `npx truffle init`
 4. `npm i --save-dev hardhat`
-5. `npx hardhat` and select "Create an empty harhat.config.js"
+5. `npx hardhat` and select "Create an empty hardhat.config.js"
 6. At this point you can copy any contracts you'd like into your /contracts directory. Check this [OpenZeppelin](https://docs.openzeppelin.com/learn/developing-smart-contracts) link for more examples.
 
 ## Step 2 - Create an Infura Key
